@@ -1,0 +1,16 @@
+file: superbowlads.rds
+file_size: 63326
+pin_hash: 68dfd27fa8bb5922
+type: rds
+title: 'superbowlads: a pinned list'
+description: A ranger regression modeling workflow
+tags: ~
+urls: ~
+created: 20240716T125557Z
+api_version: 1
+user:
+  required_pkgs:
+  - parsnip
+  - ranger
+  - workflows
+  renv_lock: ~
